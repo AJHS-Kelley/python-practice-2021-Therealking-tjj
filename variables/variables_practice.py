@@ -2,5 +2,5 @@
 
 # common data types and variables in python 
 
-
 life_count = 3 # integer value, all whole numbers, +/- and 0
+
